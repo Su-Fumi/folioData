@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "About": "Hi I am Shravani Kapse, currently doing [[highlight:IT at SNDT || UMIT]]",
+  "Profile": {
+    "name": "Shravani Kapse",
+    "pfp": "/pfp.jpeg",
+    "location": "Mumbai, India",
+    "occupation": "IT Student",
+    "email": "shravanikapse95@gmail.com",
+    "github": "https://github.com/ShravaniKapse",
+    "linkdin": "https://www.linkedin.com/in/shravani-kapse/",
+    "resume": " "
+  },
+  "Projects": [],
+  "Education": [
+    {
+      "in": "Bachelor of Technology in Information Technology",
+      "at": "Usha Mittal Institute of Technology, Santacruz",
+      "from": "2024",
+      "to": "Present",
+      "desc": "While studying Computer Science, I worked on web and mobile app projects and played an active role in the GFG Community, organizing events and creating alongside fellow students."
+    }
+  ],
+  "Skills": []
+}
