@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "About": "Hi I am Shravani Kapse, currently doing [[highlight:IT at SNDT || UMIT]]",
   "Profile": {
     "name": "Shravani Kapse",
@@ -21,10 +21,5 @@
       "desc": "While studying Computer Science, I worked on web and mobile app projects and played an active role in the GFG Community, organizing events and creating alongside fellow students."
     }
   ],
-  "Skills": [
-    {
-      "title": "HTML",
-      "desc": "I am Very good at it"
-    }
-  ]
+  "Skills": []
 }
