@@ -1,9 +1,9 @@
 {
-  "version": 2,
+  "version": 3,
   "About": "Hi I am Shravani Kapse, currently doing [[highlight:IT at SNDT || UMIT]]",
   "Profile": {
     "name": "Shravani Kapse",
-    "pfp": "/pfp.jpeg",
+    "pfp": "https://cdn.jsdelivr.net/gh/Su-Fumi/folioData@main/shravani_kapse/pfp.jpeg",
     "location": "Mumbai, India",
     "occupation": "IT Student",
     "email": "shravanikapse95@gmail.com",
@@ -21,5 +21,10 @@
       "desc": "While studying Computer Science, I worked on web and mobile app projects and played an active role in the GFG Community, organizing events and creating alongside fellow students."
     }
   ],
-  "Skills": []
+  "Skills": [
+    {
+      "title": "HTML",
+      "desc": "I am Very good at it"
+    }
+  ]
 }
